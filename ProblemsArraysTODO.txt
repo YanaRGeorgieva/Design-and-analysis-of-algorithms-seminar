@@ -69,10 +69,12 @@ void symmetricDifferenceHash(int* a, int* b, int n, int m)
     https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/
 
 5. Сортиран масив съдържа числата от О до n включително, без повторения, като има едно липсващо число. Да се намери липсващото.
-    http://www.informatika.bg/interviews#ExactlyOneMissing
+    http://www.informatika.bg/interviews#ExactlyOneMissing -> O(n)
+    https://www.geeksforgeeks.org/find-the-missing-number-in-a-sorted-array/ -> O(lgn)
 
 5*. Сортиран масив съдържа числата от О до n включително, с точно едно повтарящо се число. Да се намери повторящото се.
     http://www.informatika.bg/interviews#ExactlyOneRepeated
+    https://www.geeksforgeeks.org/find-repeating-element-sorted-array-size-n/
 
 6. Даден е масив с естествени числа. Кое е най-малкото естествено число, което не се съдържа в масива?
     
